@@ -7,6 +7,8 @@ Code for the `zed-dreammaker-langserver` Zed extention, provinding linting, code
 
 This extension relies on [SpacemanDMM](https://github.com/SpaceManiac/SpacemanDMM) by [SpaceManiac](https://github.com/SpaceManiac) and its prebuilt binaries of `dm-langserver.exe`, but you can always build your own binaries [here](https://github.com/SpaceManiac/SpacemanDMM/tree/master/crates).
 
+The `tree-sitter` files can be found here: https://github.com/mcbalaam/dm-tree-sitter
+
 Currently only tested on Windows x64, will get tested and receive Linux support later.
 
 # Installation
