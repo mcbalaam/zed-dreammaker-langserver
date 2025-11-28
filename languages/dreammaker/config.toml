@@ -1,0 +1,5 @@
+name = "DreamMaker"
+grammar = "dreammaker"
+path_suffixes = ["dm", "dme"]
+line_comments = ["// "]
+block_comment = ["/*", "*/"]
