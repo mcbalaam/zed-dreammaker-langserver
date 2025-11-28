@@ -7,7 +7,7 @@ description = "DreamMaker language support for BYOND now in Zed!"
 
 [grammars.dreammaker]
 repository = "https://github.com/mcbalaam/dm-tree-sitter"
-commit = "1ea303c5ca4492522d6978f21b5e7b705dabc1a4"
+commit = "c76cc693dd67a18f53b8fc85c5fe1355da9ee4b7"
 
 [language_servers.dm-langserver]
 name = "DreamMaker Language Server"
