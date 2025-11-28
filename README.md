@@ -1,6 +1,6 @@
 # DreamMaker Language Server for [Zed Editor](https://zed.dev/)
 
-Code for the `zed-dreammaker-langserver` Zed extention, provinding linting, code navigation and syntax highlighting for the DreamMaker language.
+Code for the `zed-dreammaker-langserver` Zed extention, providing linting, code navigation and syntax highlighting for the DreamMaker language.
 
 <img width="712" height="222" alt="image" src="https://github.com/user-attachments/assets/1e951d12-1805-4ae3-b6d1-8563f05cd424" />
 
