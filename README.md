@@ -4,6 +4,7 @@ Code for the `zed-dreammaker-langserver` Zed extention, provinding linting, code
 
 <img width="712" height="222" alt="image" src="https://github.com/user-attachments/assets/1e951d12-1805-4ae3-b6d1-8563f05cd424" />
 
+
 This extension relies on [SpacemanDMM](https://github.com/SpaceManiac/SpacemanDMM) by [SpaceManiac](https://github.com/SpaceManiac) and its prebuilt binaries of `dm-langserver.exe`, but you can always build your own binaries [here](https://github.com/SpaceManiac/SpacemanDMM/tree/master/crates).
 
 Currently only tested on Windows x64, will get tested and receive Linux support later.
@@ -33,4 +34,6 @@ Currently only tested on Windows x64, will get tested and receive Linux support 
 Zed doesn't currently support status bar manipulation, which means you'll have to reparse your enviroment by restrtging the laguage servers. This can be done by clicking the lightning bolt icon on the status bar:
 
 <img width="228" height="150" alt="image" src="https://github.com/user-attachments/assets/bbecd334-0228-411b-bc86-a242dd9b809d" />
+
+You can also hold `ctrl` to navigate to parsed variables, functions, defines and classes by clicking on highlited strings.
 
