@@ -1,4 +1,4 @@
-id = "zed-dreammaker-ls"
+id = "zed-dreammaker-langserver"
 name = "DreamMaker Language Server"
 version = "0.1.2"
 schema_version = 1
